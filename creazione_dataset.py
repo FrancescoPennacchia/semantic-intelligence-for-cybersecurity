@@ -2,23 +2,30 @@ from nltk.sentiment import SentimentIntensityAnalyzer
 import json
 import pandas as pd
 import nltk
-nltk.download('vader_lexicon')
+
 nltk.download('stopwords')
 nltk.download('punkt')
+nltk.download('vader_lexicon')
 def semantic_analysis(text):
     sia = SentimentIntensityAnalyzer()
     sentiment_scores = sia.polarity_scores(text)
     return sentiment_scores
+
+def sentiment(compound):
+    if compound >= 0.05:
+        return 'positive'
+    elif compound <= -0.05:
+        return 'negative'
+    else:
+        return 'neutral'
 def remove_punctuation(text):
     punctuation = "!\"#$%&'()*+,-./:;<=>?@[\]^_`{|}~"  # Lista dei caratteri di punteggiatura da rimuovere
     text_without_punctuation = "".join(i for i in text if i not in punctuation)
     return text_without_punctuation
 
-#Rimozione delle stopwords
 def remove_stopwords(text):
     if not isinstance(text, str):
         raise ValueError("Il testo deve essere una stringa")
-
     stopwords = set(nltk.corpus.stopwords.words('english'))
     rm_punctuation  = remove_punctuation(text)
     words = nltk.word_tokenize(rm_punctuation)
@@ -35,18 +42,12 @@ def keywords_extraction(words):
 
     return [keyword[0] for keyword in keywords]
 
-def sentiment(compound):
-    if compound >= 0.05:
-        return 'positive'
-    elif compound <= -0.05:
-        return 'negative'
-    else:
-        return 'neutral'
+
 
 
 
 # Carica i dati dal file JSON
-with open('dati/dati_spagna.json', 'r', encoding='utf-8') as file: data = json.load(file)
+with open('dati/dati_sub_reddit_unitedkingdom.json', 'r', encoding='utf-8') as file: data = json.load(file)
 
 #keywords extraction
 data_to_append = []
@@ -105,4 +106,4 @@ df = df[df.iloc[:, 0] != '[removed]']
 
 
 # Salva il DataFrame in formato CSV
-df.to_csv('dati/dataseset_spagna_con_sentiment.csv', index=False)
+df.to_csv('dati/dataseset_unitedkingdom_con_sentiment.csv', index=False)

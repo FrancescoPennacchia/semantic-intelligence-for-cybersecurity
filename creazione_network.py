@@ -4,14 +4,78 @@ from itertools import combinations
 import pandas as pd
 
 # Caricamento dei dati
-df = pd.read_csv('dataseset_italia_con_sentiment.csv', header=None, skiprows=1)
+df = pd.read_csv('dati/dataseset_italia_con_sentiment.csv', header=None, skiprows=1)
 
 # Assumi che la colonna 0 sia il testo e la colonna 4 sia il sentiment
 texts = df[0].astype(str)
 sentiments = df[4]
 
 # Lista unica delle parole chiave
-keywords_list = ['euthanasia', 'people', 'think', 'know', 'right', 'life', 'years', 'person', 'law', 'case', 'referendum', 'Italy', 'get', 'end', 'many', 'someone', 'fact', 'suicide', 'Italian', 'problem', 'opinion', 'little', 'good', 'last', 'better', 'give', 'able', 'come', 'day', 'signatures', 'death', 'since', 'use', 'said', 'made', 'everyone', 'us', 'die', 'sense', 'ones', 'nothing', 'cant', 'hope', 'makes', 'legal', 'suffering']
+#keywords_list = ['euthanasia', 'people', 'think', 'know', 'right', 'life', 'years', 'person', 'law', 'case', 'referendum', 'Italy', 'get', 'end', 'many', 'someone', 'fact', 'suicide', 'Italian', 'problem', 'opinion', 'little', 'good', 'last', 'better', 'give', 'able', 'come', 'day', 'signatures', 'death', 'since', 'use', 'said', 'made', 'everyone', 'us', 'die', 'sense', 'ones', 'nothing', 'cant', 'hope', 'makes', 'legal', 'suffering']
+
+#Pulite da chat gpt italia
+keywords_list =[
+    'euthanasia', 'life', 'death', 'law', 'referendum', 'Italy', 'Italian',
+    'suicide', 'opinion', 'legal', 'suffering', 'Court', 'article', 'favor',
+    'Cappato', 'civil', 'Euthanasia', 'choice', 'country', 'topic', 'vote',
+    'rights', 'support', 'ill', 'referendums', 'society', 'murder',
+    'Constitutional', 'information', 'human', 'issue', 'practice', 'political',
+    'terminally', 'laws', 'doctors', 'doctor', 'consenting', 'consent', 'patient', 'moral', 'crime', 'abortion', 'God'
+]
+
+
+'''
+Italia:
+keywords_list = [
+    'euthanasia', 'life', 'death', 'law', 'referendum', 'Italy', 'Italian',
+    'suicide', 'opinion', 'legal', 'suffering', 'Court', 'article', 'favor',
+    'Cappato', 'civil', 'Euthanasia', 'choice', 'country', 'topic', 'vote',
+    'rights', 'support', 'ill', 'referendums', 'society', 'murder',
+    'Constitutional', 'information', 'human', 'issue', 'practice', 'political',
+    'terminally', 'laws', 'doctors', 'doctor', 'consenting', 'consent', 'patient', 'moral', 'crime', 'abortion'
+]
+'''
+'''
+francia:
+
+[
+    'euthanasia', 'death', 'life', 'law', 'suffering', 'suicide', 'opinion',
+    'care', 'question', 'case', 'die', 'person', 'understand', 'subject',
+    'longer', 'need', 'French', 'live', 'possible', 'debate', 'vote',
+    'Euthanasia', 'family', 'country', 'suicide', 'law', 'something', 'debate',
+    'vote', 'Euthanasia', 'family', 'animals', 'social', 'choice', 'euthanized',
+    'patients', 'doctors', 'society', 'dignity', 'age', 'loved', 'Church',
+    'religion', 'legal', 'support', 'health', 'pain', 'illness', 'assisted'
+]
+'''
+
+'''
+spagna
+keywords_euthanasia = [
+    'euthanasia', 'life', 'death', 'law', 'suicide', 'suffering', 'vote',
+    'case', 'power', 'social', 'society', 'personal', 'questions', 'free',
+    'die', 'opinion', 'years', 'action', 'person', 'hope', 'rights',
+    'health', 'Euthanasia', 'pain', 'state', 'laws', 'decision', 'mental',
+    'politics', 'education', 'dignified', 'government', 'patient', 'support',
+    'countries', 'Podemos', 'progress', 'terminal', 'doctors'
+]
+'''
+
+'''
+Regno unito:
+
+keywords_euthanasia = [
+    'life', 'die', 'euthanasia', 'death', 'care', 'suicide', 'health',
+    'person', 'country', 'government', 'suffering', 'family', 'pain',
+    'issue', 'mental', 'legal', 'living', 'law', 'NHS', 'social', 'assisted',
+    'support', 'state', 'free', 'terminal', 'ill', 'society', 'choice',
+    'medical', 'doctors', 'patients', 'option', 'quality', 'human',
+    'Euthanasia', 'doctor', 'decision', 'religious', 'terminally', 'treatment',
+    'patient', 'illness', 'cases', 'court', 'laws', 'dignity'
+]
+
+
+'''
 
 # Contare la frequenza del sentiment per ogni parola chiave
 keyword_sentiment_count = {keyword: {'positive': 0, 'negative': 0, 'neutral': 0} for keyword in keywords_list}
@@ -59,7 +123,12 @@ sentiment_color_map = {'positive': 'green', 'neutral': 'blue', 'negative': 'red'
 node_colors = [sentiment_color_map[G.nodes[node]['dominant_sentiment']] for node in G.nodes()]
 
 plt.figure(figsize=(12, 10))
-nx.draw(G, pos, with_labels=True, font_size=8, font_color='black', node_size=800, edge_color='gray', alpha=0.7, width=edge_widths, node_color=node_colors)
-nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels, font_color='red')
+nx.draw(G, pos, with_labels=True, font_size=10, font_color='black', node_size=800, edge_color='gray', alpha=0.9, node_color=node_colors, font_weight='bold') #, width=edge_widths
+#nx.draw_networkx_edge_labels(G, pos, font_color='red') #, edge_labels=edge_labels
 plt.title("Grafo con Co-occorrenza delle Parole Chiave e Sentiment Dominante")
 plt.show()
+
+
+print("degree_centrality: " + str(degree_centrality))
+print("betweenness_centrality" + str(betweenness_centrality))
+print("closeness_centrality" + str(closeness_centrality))

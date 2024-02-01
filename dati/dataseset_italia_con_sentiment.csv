@@ -1,6 +1,5 @@
 Frase,Parole chiave,Data,Sentiment,Sentiment risultato
 "Legal euthanasia, signature collection starts today","['Legal', 'euthanasia', 'signature', 'collection', 'starts']",2021-06-17 10:01:47,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.128}",positive
-,"['Legal', 'euthanasia', 'signature', 'collection', 'starts']",2021-06-17 10:01:47,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",neutral
 "Euthanasia is the only area in which, unfortunately, animals have more rights than humans...","['Euthanasia', 'area', 'unfortunately', 'animals', 'rights']",2021-06-17 11:31:37,"{'neg': 0.156, 'neu': 0.844, 'pos': 0.0, 'compound': -0.34}",negative
 Damn if you're right,"['Damn', 'youre', 'right']",2021-06-17 11:46:34,"{'neg': 0.474, 'neu': 0.526, 'pos': 0.0, 'compound': -0.4019}",negative
 Unique? So what about orangutans masturbating in public?,"['Unique', 'orangutans', 'masturbating', 'public']",2021-06-17 12:43:47,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
@@ -622,7 +621,8 @@ How do they know the various differences between products so thoroughly?","['var
 
 Strangely, he felt pushed to hold a press conference only for the only 2 referendums that people cared about at all, saying that a drunk person could get killed by a friend and that with the cannabis referendum cocaine and heroin would be legalized .
 
->There is therefore no doubt that \[...\] Indian hemp and its derivatives are among the narcotic substances, the cultivation and possession of which must be classified as a crime and that only their destination for personal consumption makes their adoption possible of administrative rehabilitation and social reintegration measures other than criminal sanctions (sentence no. 28 of 1993).  
+>There is therefore no doubt that \[...\] Indian hemp and its derivatives are among the narcotic substances, the cultivation and possession of which must be classified as a crime and that only their destination for personal consumption makes their adoption possible of administrative rehabilitation and social reintegration measures other than criminal sanctions (sentence no. 28 of 1993).
+  
 
 
 Aka with a referendum it is impossible to make the cultivation of cannabis legal.","['press', 'conference', 'justify', 'courts', 'cannabis']",2022-03-04 18:26:08,"{'neg': 0.159, 'neu': 0.78, 'pos': 0.061, 'compound': -0.9442}",negative
@@ -826,8 +826,10 @@ What we talked about last time was specifically euthanasia in the case of depres
 "And I believe it. With all those _young people_ licking their chops at the idea of ​​_""retiring""_ perhaps already at twenty, plus all those _young people_ convinced that the pension problem is due to the existence of the _old boomers with billion-dollar golden pensions_ rather than to the vertical collapse of the birth rate, I sincerely believe that the majority of signatures come from _young people._
 
 Congratulations to the mastery of radicals and radical-chic, who also invented the fake enemy (""hurr durr the Church doesn't want to let those who deserve to die eeh"") and the neo-dogma of the moment (""hurr durr there are a lot of people who would like to commit suicide but can't"". It will be interesting to estimate how much the euthanasia industry will earn. I can already imagine the little box with pink flowers for euthanasia, just as described in _The Master of the World,_ a 1907 novel by R.H. Benson in which he also describes how euthanasia is rapidly extended to other cases very different from its objective original.","['people', 'young', 'euthanasia', 'believe', 'already']",2021-07-28 17:54:21,"{'neg': 0.077, 'neu': 0.821, 'pos': 0.101, 'compound': 0.6797}",positive
-"The elderly in structures called ""retirement homes"" of which many (if not the majority in some regions) are Catholic foundations currently have a million-dollar business based fundamentally on therapeutic obstinacy. Elderly people bedridden, unconscious, without a present and without a future left to rot until the end of their days... from whom every euro is squeezed out of them or their relatives. Better this way, right? Better to remain locked in an empty shell and die slowly.  
-  
+"The elderly in structures called ""retirement homes"" of which many (if not the majority in some regions) are Catholic foundations currently have a million-dollar business based fundamentally on therapeutic obstinacy. Elderly people bedridden, unconscious, without a present and without a future left to rot until the end of their days... from whom every euro is squeezed out of them or their relatives. Better this way, right? Better to remain locked in an empty shell and die slowly.
+  
+
+  
 Honestly, I'd rather choose my own end. And I prefer to have all the possible options to, one day, be able to exercise my personal freedom AUTONOMOUSLY. I don't understand what drives others to impose morals on others. But mind your own business and let people choose for themselves.","['business', 'people', 'without', 'end', 'Better']",2021-07-28 18:19:19,"{'neg': 0.043, 'neu': 0.891, 'pos': 0.066, 'compound': 0.4678}",positive
 "> the problem of pensions is due to the existence of old boomers with billion-dollar golden pensions rather than to the vertical collapse of the birth rate
 
@@ -1204,7 +1206,6 @@ No one can understand the pain of others,"['one', 'understand', 'pain', 'others'
 Come on and give us more rights at the end of life,"['Come', 'give', 'us', 'rights', 'end']",2021-04-28 14:54:20,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
 Come on.,['Come'],2021-04-28 14:55:19,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
 "Legal euthanasia, 40 years of unfinished laws and unsuccessful attempts by Parliament: this is why the referendum is the last chance","['Legal', 'euthanasia', '40', 'years', 'unfinished']",2021-07-04 17:18:50,"{'neg': 0.104, 'neu': 0.75, 'pos': 0.146, 'compound': 0.0}",neutral
-,"['Legal', 'euthanasia', '40', 'years', 'unfinished']",2021-07-04 17:18:50,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",neutral
 "Let's specify: the referendum would be the last chance if the collection of signatures was successful and if the Constitutional Court did not oppose the question as it is formulated. This is how it is in Italy, there are two obstacles to overcome.
 
 Otherwise it's just the latest.","['Lets', 'specify', 'referendum', 'would', 'last']",2021-07-04 17:33:01,"{'neg': 0.049, 'neu': 0.843, 'pos': 0.109, 'compound': 0.4939}",positive
@@ -1281,7 +1282,6 @@ It is updated every day, with the times and places where it is possible to sign,
 
 Not to mention that there is always confusion in public opinion (and also in politics) between euthanasia, therapeutic suicide and suspension of therapeutic treatment.","['issue', 'opinion', 'would', 'therapeutic', 'Unfortunately']",2021-07-05 14:39:51,"{'neg': 0.144, 'neu': 0.805, 'pos': 0.05, 'compound': -0.8503}",negative
 "Euthanasia law, Chamber closes discussion: long time to return to the chamber","['Euthanasia', 'law', 'Chamber', 'closes', 'discussion']",2021-12-14 16:49:08,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
-,"['Euthanasia', 'law', 'Chamber', 'closes', 'discussion']",2021-12-14 16:49:08,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",neutral
 "The text that comes out of the commission is already watered down compared to the ruling of the constitutional court. A text which, for example, would not allow cancer patients to access assisted suicide, probably because some Catholic in parliament believes that it is right that those with terminal cancer should be forced to live with the disease until its final stage. Did we have doubts? I don't want to slip into classic clichés about politics but I really wonder how it is possible that politics maintains these sidereal distances on an issue so deeply felt by citizens.
 
 I look forward to the referendum.","['text', 'cancer', 'politics', 'comes', 'commission']",2021-12-14 16:55:51,"{'neg': 0.083, 'neu': 0.875, 'pos': 0.042, 'compound': -0.3134}",negative
@@ -1315,7 +1315,6 @@ As a graduate in art history I will tell you, more or less squares, to make the 
 "I found an article without the clickbait title. (even though I searched the room rules and other newspaper articles in addition to the post about the room being semi-empty on Mondays but I didn't find anything, it must be customary, oh well)","['room', 'found', 'article', 'without', 'clickbait']",2021-12-14 16:51:03,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
 I hope the referendum goes through,"['hope', 'referendum', 'goes']",2021-12-14 19:41:21,"{'neg': 0.0, 'neu': 0.58, 'pos': 0.42, 'compound': 0.4404}",positive
 "Life prisoners: ""Euthanasia is better than life in prison""","['Life', 'prisoners', 'Euthanasia', 'better', 'life']",2017-04-13 06:27:28,"{'neg': 0.426, 'neu': 0.387, 'pos': 0.187, 'compound': -0.5719}",negative
-,"['Life', 'prisoners', 'Euthanasia', 'better', 'life']",2017-04-13 06:27:28,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",neutral
 Checkout username.,"['Checkout', 'username']",2017-04-13 07:16:57,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
 "People killed by life prisoners: ""Life in prison is better than no longer being alive""","['People', 'killed', 'life', 'prisoners', 'Life']",2017-04-13 09:21:50,"{'neg': 0.478, 'neu': 0.324, 'pos': 0.198, 'compound': -0.8316}",negative
 Are we moving towards the death penalty on a voluntary basis?,"['moving', 'towards', 'death', 'penalty', 'voluntary']",2017-04-13 07:29:21,"{'neg': 0.463, 'neu': 0.537, 'pos': 0.0, 'compound': -0.7845}",negative
@@ -1445,7 +1444,6 @@ Unfortunately, for goodness sake, and I say this with the utmost respect, but th
 So I don't understand what is inevitable.","['people', 'full', 'equality', 'euthanasia', 'achieved']",2019-09-09 17:43:14,"{'neg': 0.065, 'neu': 0.841, 'pos': 0.094, 'compound': 0.2168}",positive
 "Is there really full equality for gay couples on your planet? Come on, fantastic!","['really', 'full', 'equality', 'gay', 'couples']",2019-09-10 15:09:54,"{'neg': 0.0, 'neu': 0.77, 'pos': 0.23, 'compound': 0.5983}",positive
 "Euthanasia, Welby and Cappato acquitted for the death of Davide Trentini: «The fact does not exist»","['Euthanasia', 'Welby', 'Cappato', 'acquitted', 'death']",2020-07-27 18:02:52,"{'neg': 0.196, 'neu': 0.704, 'pos': 0.101, 'compound': -0.4404}",negative
-,"['Euthanasia', 'Welby', 'Cappato', 'acquitted', 'death']",2020-07-27 18:02:52,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",neutral
 And parliament sleeps.,"['parliament', 'sleeps']",2020-07-27 18:51:10,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
 "Personally I am in favor of euthanasia in these cases, so I am happy with the result given by the judge.
 
@@ -1472,7 +1470,6 @@ The mother's comment is simply chilling.,"['mothers', 'comment', 'simply', 'chil
 Why?,[],2020-07-28 02:47:58,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
 Uh you made me curious that I went to read the article but the courier asks me to remove the adblock. Ugh.,"['Uh', 'made', 'curious', 'went', 'read']",2020-07-28 09:19:38,"{'neg': 0.152, 'neu': 0.78, 'pos': 0.068, 'compound': -0.4678}",negative
 "The complete story of Noa Pothoven, and why euthanasia is not talked about in Holland","['complete', 'story', 'Noa', 'Pothoven', 'euthanasia']",2019-06-05 09:26:33,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
-,"['complete', 'story', 'Noa', 'Pothoven', 'euthanasia']",2019-06-05 09:26:33,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",neutral
 "I heard Cappato's speech on radio 105 on the matter just a few minutes ago, obviously we don't miss out on fake news and media profiteering in this regard.","['heard', 'Cappatos', 'speech', 'radio', '105']",2019-06-05 09:54:54,"{'neg': 0.155, 'neu': 0.76, 'pos': 0.084, 'compound': -0.4864}",negative
 "Having heard it too, in my opinion she was also deceived by the fact that she was assisted by doctors to make her suffer less, but she simply starved herself to death.","['heard', 'opinion', 'also', 'deceived', 'fact']",2019-06-05 10:17:45,"{'neg': 0.34, 'neu': 0.66, 'pos': 0.0, 'compound': -0.9377}",negative
 "In the sense that Cappato explained the story in the right terms, or that he too ""fell for it""? I ask seriously, sorry, but your sentence can be read both ways.","['sense', 'Cappato', 'explained', 'story', 'right']",2019-06-05 10:24:50,"{'neg': 0.081, 'neu': 0.872, 'pos': 0.047, 'compound': -0.0129}",neutral
@@ -1547,70 +1544,134 @@ Let me explain: the referendum, in case you didn't already know, affects the cri
 What would the Luca Coscioni Association like to do? If you read the text of the referendum before signing the proposal, then you will know that approximately 70% of this article would be repealed: only the part that says that normal homicide would be prosecuted in those three cases (minors, mentally ill, consent obtained fraudulently). But then where am I wrong? Because, for one thing, in another thread everyone downvoted me for giving the example of two American guys (an episode you may know) who had met on an online forum, the first with the fantasy of being eaten and the second of being a cannibal. You can imagine how it ended: in Italy the latter (the 'survivor') would be punished for murder of the consenting person... but after the referendum? That article of the penal code would basically no longer be there, after all. Yet it is not a case study of euthanasia.
 
 On another thread they told me that in reality they do it on purpose to 'leave a regulatory gap', so Parliament will have to immediately fill it with legislation on euthanasia. But... are we talking about the same Parliament that the Constitutional Court, after the ruling on Cappato, had given **one year** to fix the crime of aiding suicide? Did a year go by in vain without them even starting the process to touch on that topic? If the referendum were to pass (ending up also touching on areas that have nothing to do with the medical one), I'm pretty sure that no less time would pass before even the *idea* of spending time plugging the holes created would arise. in the penal code.","['referendum', 'euthanasia', 'passes', 'would', 'murder']",2021-08-31 10:25:54,"{'neg': 0.179, 'neu': 0.756, 'pos': 0.065, 'compound': -0.9971}",negative
-"Popular initiative bill Refusal of health treatments and legality of euthanasia  
-The undersigned Italian citizens promote the following popular initiative law to  
-pursuant to art. 71 paragraph 2 of the Constitution and the law of 25 May 1970, n.352 and  
-further modifications.  
-  
-ARTICLE 1  
-Every citizen can refuse the start or continuation of health treatments, as well as any  
-type of life-sustaining treatment and/or nutritional therapy. The medical staff and  
-healthcare provider is required to respect the patient's wishes where it:  
-  
-comes from an adult;  
-comes from a subject who is not in conditions, even temporary, of  
-inability to understand and will, except as provided for in the following article 3;  
-is unequivocally manifested by the interested party or, in case of incapacity  
-occurred, even temporarily, by a previously appointed person,  
-with a written document with signature authenticated by the registry officer of the municipality of residence or  
-domicile, ""trustee for the expression of wishes for care"".  
-ARTICLE 2  
-Medical and healthcare personnel who do not respect the will expressed by the subjects and in  
-ways indicated in the previous article is required, in addition to any other criminal consequences or  
-civil law recognizable in the facts, to compensation for the damage, moral and material, caused by  
-his behavior.  
-  
-ARTICLE 3  
-The provisions of articles 575, 579, 580 and 593 of the penal code do not apply to  
-doctor and healthcare personnel who have carried out euthanasia treatments, causing death  
-of the patient, if the following conditions apply:  
-  
-the request comes from the patient, is current and is unequivocally verified;  
-the patient is an adult;  
-the patient is not in a state, even temporarily, of inability to understand and  
-of will, except as provided in the following article 4;  
-relatives within the second degree and the spouse with the patient's consent are  
-were informed of the request and, with the patient's consent, were able to  
-to converse with him;  
-the request is motivated by the fact that the patient is suffering from an illness  
-producing serious suffering, incurable or with a poor prognosis less than  
-eighteen months;  
-the patient has been adequately and adequately informed of his condition  
-and of all possible therapeutic alternatives and foreseeable clinical developments  
-you have discussed this with your doctor;  
-euthanasia treatment respects the patient's dignity and does not cause harm  
-same physical suffering. Compliance with the aforementioned conditions must be  
-attested by the doctor in writing and confirmed by the manager of the healthcare facility where  
-euthanasia treatment will be practiced.  
-ARTICLE 4  
-Each person can draw up a written document, with a signature authenticated by the registry officer  
-of the municipality of residence or domicile, with which he requests the application of euthanasia for the  
-case in which he subsequently finds himself in the conditions provided for by the art. 3, paragraph 5  
-and is incapable of understanding or wanting or expressing one's will by naming  
-at the same time, in the manner indicated by the art. 1, a trustee, to confirm the  
-request, subject to the conditions.  
-  
-The request for the application of euthanasia must be clear and unequivocal and cannot  
-be subject to conditions. It must be accompanied, under penalty of inadmissibility, by  
-a self-declaration, with which the applicant certifies that he has adequately complied  
-documented in relation to the health, ethical and human profiles relating to it.  
-  
-Equally clear and unequivocal, as well as expressed in writing, must be the confirmation of  
-trustee.  
-  
-Where these conditions, together with the provisions of the previous art. 3, paragraph 7 are  
-respected, do not apply to doctors and healthcare personnel who have implemented them  
-euthanasia techniques, causing the death of the patient, the provisions of articles 575, 579, 580  
+"Popular initiative bill Refusal of health treatments and legality of euthanasia
+  
+The undersigned Italian citizens promote the following popular initiative law to
+  
+pursuant to art. 71 paragraph 2 of the Constitution and the law of 25 May 1970, n.352 and
+  
+further modifications.
+  
+
+  
+ARTICLE 1
+  
+Every citizen can refuse the start or continuation of health treatments, as well as any
+  
+type of life-sustaining treatment and/or nutritional therapy. The medical staff and
+  
+healthcare provider is required to respect the patient's wishes where it:
+  
+
+  
+comes from an adult;
+  
+comes from a subject who is not in conditions, even temporary, of
+  
+inability to understand and will, except as provided for in the following article 3;
+  
+is unequivocally manifested by the interested party or, in case of incapacity
+  
+occurred, even temporarily, by a previously appointed person,
+  
+with a written document with signature authenticated by the registry officer of the municipality of residence or
+  
+domicile, ""trustee for the expression of wishes for care"".
+  
+ARTICLE 2
+  
+Medical and healthcare personnel who do not respect the will expressed by the subjects and in
+  
+ways indicated in the previous article is required, in addition to any other criminal consequences or
+  
+civil law recognizable in the facts, to compensation for the damage, moral and material, caused by
+  
+his behavior.
+  
+
+  
+ARTICLE 3
+  
+The provisions of articles 575, 579, 580 and 593 of the penal code do not apply to
+  
+doctor and healthcare personnel who have carried out euthanasia treatments, causing death
+  
+of the patient, if the following conditions apply:
+  
+
+  
+the request comes from the patient, is current and is unequivocally verified;
+  
+the patient is an adult;
+  
+the patient is not in a state, even temporarily, of inability to understand and
+  
+of will, except as provided in the following article 4;
+  
+relatives within the second degree and the spouse with the patient's consent are
+  
+were informed of the request and, with the patient's consent, were able to
+  
+to converse with him;
+  
+the request is motivated by the fact that the patient is suffering from an illness
+  
+producing serious suffering, incurable or with a poor prognosis less than
+  
+eighteen months;
+  
+the patient has been adequately and adequately informed of his condition
+  
+and of all possible therapeutic alternatives and foreseeable clinical developments
+  
+you have discussed this with your doctor;
+  
+euthanasia treatment respects the patient's dignity and does not cause harm
+  
+same physical suffering. Compliance with the aforementioned conditions must be
+  
+attested by the doctor in writing and confirmed by the manager of the healthcare facility where
+  
+euthanasia treatment will be practiced.
+  
+ARTICLE 4
+  
+Each person can draw up a written document, with a signature authenticated by the registry officer
+  
+of the municipality of residence or domicile, with which he requests the application of euthanasia for the
+  
+case in which he subsequently finds himself in the conditions provided for by the art. 3, paragraph 5
+  
+and is incapable of understanding or wanting or expressing one's will by naming
+  
+at the same time, in the manner indicated by the art. 1, a trustee, to confirm the
+  
+request, subject to the conditions.
+  
+
+  
+The request for the application of euthanasia must be clear and unequivocal and cannot
+  
+be subject to conditions. It must be accompanied, under penalty of inadmissibility, by
+  
+a self-declaration, with which the applicant certifies that he has adequately complied
+  
+documented in relation to the health, ethical and human profiles relating to it.
+  
+
+  
+Equally clear and unequivocal, as well as expressed in writing, must be the confirmation of
+  
+trustee.
+  
+
+  
+Where these conditions, together with the provisions of the previous art. 3, paragraph 7 are
+  
+respected, do not apply to doctors and healthcare personnel who have implemented them
+  
+euthanasia techniques, causing the death of the patient, the provisions of articles 575, 579, 580
+  
 and 593.","['euthanasia', 'conditions', 'patient', 'healthcare', 'request']",2021-08-31 12:30:52,"{'neg': 0.066, 'neu': 0.845, 'pos': 0.089, 'compound': 0.8573}",positive
 So according to article 1 can you refuse the vaccine?,"['according', 'article', '1', 'refuse', 'vaccine']",2021-08-31 12:52:16,"{'neg': 0.216, 'neu': 0.784, 'pos': 0.0, 'compound': -0.296}",negative
 "Usual problem of repeal referendums in Italy. The legal effect is the decriminalization of consenting murder. The political effect is a survey on the introduction of euthanasia. That is, a general rule is repealed to try to force parliament to introduce a particular one.","['effect', 'Usual', 'problem', 'repeal', 'referendums']",2021-08-31 11:38:14,"{'neg': 0.158, 'neu': 0.81, 'pos': 0.032, 'compound': -0.7845}",negative
@@ -2235,7 +2296,6 @@ Cringe,['Cringe'],2021-06-07 21:17:09,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'com
 
 [Not Civil / Unsuitable for Diving - Click here to read the rule](/r/italy/wiki/regolamento#wiki_.5B1.5D_divertiti_e_rispetti)","['Hi', 'comment', 'removed', 'Civil', 'Unsuitable']",2021-06-08 07:17:15,"{'neg': 0.0, 'neu': 0.925, 'pos': 0.075, 'compound': 0.0772}",positive
 "Euthanasia, the first case in the world involving a minor in Belgium","['Euthanasia', 'first', 'case', 'world', 'involving']",2016-09-17 14:18:26,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
-,"['Euthanasia', 'first', 'case', 'world', 'involving']",2016-09-17 14:18:26,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",neutral
 "I think euthanasia should be a right. In this case, even if it is a minor, we are still talking about a terminal patient. I'm sure it wasn't an easy choice for the parents either. I don't understand why some people are against euthanasia anyway.","['euthanasia', 'think', 'right', 'case', 'even']",2016-09-17 14:33:20,"{'neg': 0.056, 'neu': 0.89, 'pos': 0.054, 'compound': -0.0274}",neutral
 "I am against the freedom to choose euthanasia, which is worse.","['freedom', 'choose', 'euthanasia', 'worse']",2016-09-17 16:19:10,"{'neg': 0.203, 'neu': 0.523, 'pos': 0.275, 'compound': 0.2732}",positive
 "From the last news I saw, it was a 17 year old boy.","['last', 'news', 'saw', '17', 'year']",2016-09-17 19:49:13,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
@@ -2259,7 +2319,6 @@ Euthanasia for Renzi!!111!!1 /s,"['Euthanasia', 'Renzi1111']",2016-09-17 16:07:1
 Belgium's NAMBLA will be jumping for joy.,"['Belgiums', 'NAMBLA', 'jumping', 'joy']",2016-09-17 18:02:53,"{'neg': 0.0, 'neu': 0.612, 'pos': 0.388, 'compound': 0.5859}",positive
 "We cure depression, but do we allow assisted suicide? I don't know, it seems to me there is a fundamental contradiction, but I'm probably wrong.","['cure', 'depression', 'allow', 'assisted', 'suicide']",2016-09-18 09:02:16,"{'neg': 0.428, 'neu': 0.506, 'pos': 0.066, 'compound': -0.9313}",negative
 The examination of the bills on euthanasia begins,"['examination', 'bills', 'euthanasia', 'begins']",2016-03-03 18:08:35,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
-,"['examination', 'bills', 'euthanasia', 'begins']",2016-03-03 18:08:35,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",neutral
 It will end up that you can only do it if you are gay.,"['end', 'gay']",2016-03-03 18:48:44,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
 "Wow, I almost shed a tear seeing all this progressivism lately.","['Wow', 'almost', 'shed', 'tear', 'seeing']",2016-03-03 18:19:34,"{'neg': 0.0, 'neu': 0.678, 'pos': 0.322, 'compound': 0.5859}",positive
 "If nothing is ever done about it, it is inaction, not progressivism.","['nothing', 'ever', 'done', 'inaction', 'progressivism']",2016-03-03 19:11:50,"{'neg': 0.154, 'neu': 0.846, 'pos': 0.0, 'compound': -0.25}",negative
@@ -2280,7 +2339,6 @@ It will end up that you can only die if you are over 99 years old,"['end', 'die'
 "''Euthanasia is against nature, leaving a man attached to a machine in a hospital bed for 20 years is much more natural''
 /s","['Euthanasia', 'nature', 'leaving', 'man', 'attached']",2016-03-04 10:09:48,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
 "Euthanasia law, June 24th in the Chamber but there is a clash between the League and the M5S","['Euthanasia', 'law', 'June', '24th', 'Chamber']",2019-06-17 15:38:37,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
-,"['Euthanasia', 'law', 'June', '24th', 'Chamber']",2019-06-17 15:38:37,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",neutral
 "No to pain therapy because boo boo drugs and no to euthanasia law.
 
 But the argument of the body is mine, the life is mine and I manage it should be the foundation of a civilized country.
@@ -2306,21 +2364,17 @@ If they don't at least fight on civil rights they'll lose votes anyway, to tell 
 Any excuse is good to bring down the government.,"['excuse', 'good', 'bring', 'government']",2019-06-17 18:19:24,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.4939}",positive
 Better give him a nudge so he can do it sooner.,"['Better', 'give', 'nudge', 'sooner']",2019-06-17 19:30:18,"{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}",positive
 My enemies - (Filippo Facci on euthanasia),"['enemies', 'Filippo', 'Facci', 'euthanasia']",2017-03-04 20:51:40,"{'neg': 0.39, 'neu': 0.61, 'pos': 0.0, 'compound': -0.4939}",negative
-,"['enemies', 'Filippo', 'Facci', 'euthanasia']",2017-03-04 20:51:40,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",neutral
 ">Italy, since then, is still without legislation and we have returned to that narcotic cloak that has always surrounded the things that are done and not said. And why should politics concern itself with it, then? It's not a ""priority"" issue, already. This is how we make do, and I have never met a single person in the world - not even one - who, after a harrowing experience with a loved one, reduced to the brink of death by a terminal illness, has not finally admitted that yes, under certain conditions of euthanasia can talk. And they were people marked forever, not people who change their minds after an article like this.
 
 Never agreed so much with Facci","['one', 'people', 'Italy', 'since', 'still']",2017-03-04 22:33:54,"{'neg': 0.078, 'neu': 0.831, 'pos': 0.09, 'compound': 0.3591}",positive
 can you not link directly to facebook?,"['link', 'directly', 'facebook']",2017-03-06 22:07:14,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
 The slow euthanasia of Italia.it,"['slow', 'euthanasia', 'Italiait']",2014-09-25 06:47:05,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
-,"['slow', 'euthanasia', 'Italiait']",2014-09-25 06:47:05,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",neutral
 "In fact the page with croatia.hr is merciless. Browsing the two sites it seems that Croatia is a cool place full of things to do while Italy, oh well, the pages look like a copy/paste from Wikipedia.","['fact', 'page', 'croatiahr', 'merciless', 'Browsing']",2014-09-25 08:25:45,"{'neg': 0.0, 'neu': 0.823, 'pos': 0.177, 'compound': 0.7096}",positive
 "Croatia IS a cool place and full of things to do, actually.","['Croatia', 'cool', 'place', 'full', 'things']",2014-09-25 13:02:43,"{'neg': 0.0, 'neu': 0.813, 'pos': 0.187, 'compound': 0.3182}",positive
 I was there when they opened the site. It had already gotten off to a very bad start and various web designers were still using <table>s instead of <div>s.,"['opened', 'site', 'already', 'gotten', 'bad']",2014-09-25 10:22:41,"{'neg': 0.127, 'neu': 0.873, 'pos': 0.0, 'compound': -0.5849}",negative
 ENIT [plis](http://www.youtube.com/watch?v=Lp2uDyzxP6g).,"['ENIT', 'plishttpwwwyoutubecomwatchvLp2uDyzxP6g']",2014-09-25 17:56:22,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
 Scott Adams (Dilbert) and euthanasia.,"['Scott', 'Adams', 'Dilbert', 'euthanasia']",2013-12-01 15:53:04,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
-,"['Scott', 'Adams', 'Dilbert', 'euthanasia']",2013-12-01 15:53:04,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",neutral
 "Marino: six months of nothing, Rome towards euthanasia. But the parties let Raggi cook out of calculation","['Marino', 'six', 'months', 'nothing', 'Rome']",2017-02-12 14:32:52,"{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.5499}",positive
-,"['Marino', 'six', 'months', 'nothing', 'Rome']",2017-02-12 14:32:52,"{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}",neutral
 #marinodimettitiH!!!1!1!,['marinodimettitiH11'],2017-02-12 18:55:55,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
 "Boy dies on bike, Gianni Bugno speaks: ""Dangerous cities for cyclists, we need new mobility with protected routes""","['Boy', 'dies', 'bike', 'Gianni', 'Bugno']",2022-11-13 09:50:32,"{'neg': 0.141, 'neu': 0.727, 'pos': 0.132, 'compound': -0.0516}",negative
 What do you think?,"['Boy', 'dies', 'bike', 'Gianni', 'Bugno']",2022-11-13 09:50:32,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
@@ -5025,6 +5079,3 @@ This is a very little discussed point, the result of the polarization of the dis
 Italian law allows you to give birth and leave the baby in hospital (even with the possibility of changing your mind within a certain period, of course). And then give him up for adoption.
 
 A dear friend, after years and years of problems having children (a truly dramatic situation, believe me), delirious international adoptions, got the call one morning and went to pick up the baby. That now he is a happy little boy in a happy family.","['baby', 'give', 'adoption', 'little', 'years']",2020-08-28 10:11:44,"{'neg': 0.029, 'neu': 0.815, 'pos': 0.155, 'compound': 0.9493}",positive
-"For me the problem arises from a pessimistic perspective that inherently seeks to minimize suffering rather than maximize opportunities for joy; in fact, for you, only suffering matters and you mention it, giving a negative value even to *signs* and *plans*.
-
-I will simply say that, as always in this type of thing, the yardstick we use on other people's situations is always different from the one we would apply to ourselves.","['suffering', 'always', 'problem', 'arises', 'pessimistic']",2020-08-28 14:16:30,"{'neg': 0.175, 'neu': 0.683, 'pos': 0.142, 'compound': -0.5859}",negative

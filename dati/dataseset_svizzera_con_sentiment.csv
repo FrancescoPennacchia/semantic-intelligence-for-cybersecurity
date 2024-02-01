@@ -1,0 +1,276 @@
+Frase,Parole chiave,Data,Sentiment,Sentiment risultato
+Is it actually legal to supply the means for active euthanasia/suicide in Switzerland?,"['actually', 'legal', 'supply', 'means', 'active']",2022-04-17 03:45:26,"{'neg': 0.0, 'neu': 0.724, 'pos': 0.276, 'compound': 0.4939}",positive
+"It is legal to help someone commit suicide if there are no personal motives involved (e.g. you cannot be paid for it etc.). Professional organisations therefore have lots of paperwork involved, also to prove that the patient requesting the means was actually competent to make that decision. So if you were to help somebody privately, and were to profit somehow or there are other people (e.g. family) that are not happy with that, I think you could get in trouble for it.
+
+Active euthanasia by somebody is illegal, unless it is basically ""passive Sterbehilfe"" where you e.g. treat somebodys pain with Morphine, and to get good pain control you accept that this might be life-limiting. So there is a bit of a grey zone there.","['eg', 'help', 'involved', 'somebody', 'get']",2022-04-18 08:15:57,"{'neg': 0.147, 'neu': 0.67, 'pos': 0.183, 'compound': 0.1536}",positive
+is euthanasia for severe refractory psychiatric illnesses permitted in switzerland like in the netherlands and belgium?,"['euthanasia', 'severe', 'refractory', 'psychiatric', 'illnesses']",2021-04-10 05:50:00,"{'neg': 0.272, 'neu': 0.61, 'pos': 0.117, 'compound': -0.5106}",negative
+"I'm not a swiss resident but I'm just curious.
+
+**Edit**: wasn't aware euthanasia is illegal but assisted suicide is legal. anyways can one seek assisted suicide for such a reason?","['euthanasia', 'severe', 'refractory', 'psychiatric', 'illnesses']",2021-04-10 05:50:00,"{'neg': 0.386, 'neu': 0.51, 'pos': 0.104, 'compound': -0.9493}",negative
+"Euthanasia is prohibited in Switzerland. 
+
+There is assisted suicide for people with serious, untreatable diseases that will lead to death. I'm not sure if legally that includes psychiatric illnesses, but I doubt it (I'm no doctor but in my mind a psychiatric illness can't lead to death, at least not directly so is probably ruled out). But even if it did I have my doubts if any of the organizations that provide this service would take on someone with a purely psychiatric illness.","['psychiatric', 'lead', 'death', 'Im', 'illness']",2021-04-10 07:17:54,"{'neg': 0.326, 'neu': 0.674, 'pos': 0.0, 'compound': -0.9824}",negative
+Is it only if it leads to death then? Thought uncurable diseases that make life hell (and the person is old) would be included too.,"['leads', 'death', 'Thought', 'uncurable', 'diseases']",2021-04-10 10:55:18,"{'neg': 0.27, 'neu': 0.73, 'pos': 0.0, 'compound': -0.8591}",negative
+"So, working as a physician with some experience with patients who had EXIT:
+
+Generally, there is no definite inclusion or exclusion list of diseases that you can use assisted suicide for. The disease will influence the process and success chances, though.
+
+Basically, the patient who requests assisted suicide needs to be sound of mind, the decision needs to be well thought through and something that doesn't change over a certain amount of time. Up until some time ago it was generally limited to some life-limiting diseases that would have caused death in the course of disease anyway. There are now discussions to also allow it for healthy elderly people who just don't want to live any more, and the number of diseases that have been considered has grown increasingly. That is also where psychiatric illnesses come into play.
+
+It is - depending on the illness - often difficult to say whether the conditions for an assisted suicide are fulfilled. E.g., if you have severe depression, thinking about assisted suicide may also be a symptom of the disease, but might also be something that a mentally healthy person might consider depending on the life-impacting symptoms of the disease. That's where the difficulties happen. Basically there needs to be good judging by the doctors involved in the case, whether the decision is made without being influenced by the psychiatric illness itself, and if it is a long-standing wish and well thought about. As many psychiatrists are new to this topic, it is usually quite difficult to actually get a statement on this - and if someone has a life-long history of mental health, probably a ""new"" psychiatrist will not be able to judge the wish within an useful time range.
+
+While it's quit easy to judge someone's wish who is dying from cancer and in serious pain and the life would only be shortened by a few weeks, it's much more difficult to do so if the disease itself wouldn't naturally kill the patient within the next few weeks anyway - and the disease might itself influence the wish for assisted suicide.
+
+So: it is possible to get assisted suicide for mental health conditions, but it is complicated and often difficult and I am not aware that it happens in significant numbers. It's most likely also the assisted suicide organisations who would like to err on the side of caution, because helping people who don't actually want to have assisted suicide committing it would be extremely bad publicity for assisted suicide in Switzerland and also world-wide, and would most likely decrease access to it even further.","['assisted', 'suicide', 'disease', 'also', 'would']",2021-04-12 19:06:32,"{'neg': 0.183, 'neu': 0.699, 'pos': 0.118, 'compound': -0.9903}",negative
+"https://www.exit-romandie.ch/l-assistance-au-suicide-fr360.html
+
+Ok so I this first link is about assisted suicide. Which do no state anything spacial abt psychiatry. I think it would be possible. 
+
+https://fr.m.wikipedia.org/wiki/Euthanasie_en_Suisse
+
+Law about euthanasia in second link
+
+Definitions
+Passiv euthanasia: stopping things that are keeping the patient alive (hydration, food..)
+
+Activ euthanasia: giving something that kills
+
+Active Direct: in one go, meant to kill (not allowed)
+
+Active Indirect: giving something to alliviate pain and suffering in increasing doses that will utlimatly kill the patient (tolerated I think)
+
+So, euthanasia is more used in palliativ care situations, when the patient can't go through the channels of exit and the likes to get assisted suicide.
+It really depends the state of the person... but said like this I dont think it's allowed.","['euthanasia', 'think', 'patient', 'link', 'assisted']",2021-04-10 07:42:41,"{'neg': 0.145, 'neu': 0.729, 'pos': 0.126, 'compound': -0.5859}",negative
+"I think what you are asking about is probably assisted suicide. Euthanasia, although it is technically the right term, is not used anymore because of its use by the Nazis.
+
+[EXIT](https://exit.ch/en/) is the organisation that provides this service in Switzerland, I'm not sure about the legal details but you'll probably find out on their website.","['probably', 'think', 'asking', 'assisted', 'suicide']",2021-04-10 07:35:03,"{'neg': 0.075, 'neu': 0.903, 'pos': 0.022, 'compound': -0.4554}",negative
+"It’s a super slippery slope. 
+
+Generally assisted suicide is only allowed for people with terminal illnesses who are competent to judge (or whatever urteilsfähig means in english). Sounds quite straightforward - however as always the devil lies in the details 
+
+Depression is generally considered healable but there have been cases where one of our organizations went ahead anyway (or wanted to but got stopped- cannot remember). 
+
+Also there were situations where a couple decided to end their lives together but there were doubts if the woman actually really was convinced or if she just followed her dominant husband. 
+
+Also in some cases relatives (who e.g. are caring them for years and get tired or have financial interests) can put subtle pressure on people. In one case even members of the organization which organizes assisted suicide was mentioned as a heir of a fairly large inheritance. There was a court case but they got acquitted.","['assisted', 'suicide', 'people', 'cases', 'one']",2021-04-10 13:23:19,"{'neg': 0.168, 'neu': 0.748, 'pos': 0.084, 'compound': -0.9323}",negative
+"I know exit isn't for terminal illnesses only. Neurodegenerative conditions like parkinsons and dementia is also permitted. Also stuff like paralysis.
+
+https://www.theguardian.com/uk/2008/oct/18/11
+
+https://metro.co.uk/2017/02/28/dj-40-ends-his-life-at-swiss-suicide-clinic-after-crash-that-left-him-paralysed-6479674/","['like', 'know', 'exit', 'isnt', 'terminal']",2021-04-10 18:01:53,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.7669}",positive
+There's an organisation called Exit (https://exit.ch/). I think what they do is called assisted suicide and it is legal.,"['called', 'Theres', 'organisation', 'Exit', 'httpsexitch']",2021-04-10 07:36:36,"{'neg': 0.205, 'neu': 0.727, 'pos': 0.068, 'compound': -0.6124}",negative
+"Redditors of Switzerland, how do yo u feel about the accessibility of euthanasia and foreigners using your country for assisted suicide?","['Redditors', 'Switzerland', 'yo', 'u', 'feel']",2015-04-07 00:02:02,"{'neg': 0.191, 'neu': 0.809, 'pos': 0.0, 'compound': -0.6705}",negative
+I'm writing a research paper about euthanasia in Switzerland and the accessibility and common use of it by people from other countries. It would be really interesting to get some other perspectives on the issue.,"['Redditors', 'Switzerland', 'yo', 'u', 'feel']",2015-04-07 00:02:02,"{'neg': 0.0, 'neu': 0.917, 'pos': 0.083, 'compound': 0.4576}",positive
+"As long as there is a medical standard of diagnosis and other safeguards to make sure that they are making a free, competent and unpressured decision, I'm fine with it.","['long', 'medical', 'standard', 'diagnosis', 'safeguards']",2015-04-07 01:07:13,"{'neg': 0.0, 'neu': 0.655, 'pos': 0.345, 'compound': 0.8779}",positive
+"On a pedantic note, assisted suicide (ie the prescription/preparation of lethal drugs for a person to kill themselves with) is legal in Switzerland, however euthanasia (ie the active killing of a person by another person) is not.","['person', 'ie', 'pedantic', 'note', 'assisted']",2015-04-07 03:41:44,"{'neg': 0.291, 'neu': 0.62, 'pos': 0.09, 'compound': -0.9081}",negative
+"This is very important. The doctor gives you access to the required drugs, the organisations (such as EXIT) provide you with a room and prepare a lot of the required paperwork for the police/coroner and help you with other preparations (last will, notification of relatives etc) however you have to prepare and take the drugs yourself. Sounds trivial, but if you are too weak or too far away (i.e. coma) you cannot take this route.","['required', 'drugs', 'prepare', 'take', 'important']",2015-04-07 06:06:06,"{'neg': 0.063, 'neu': 0.893, 'pos': 0.044, 'compound': -0.3619}",negative
+"It has to be this way. If other countries force their people to either endure a life in pain/misery/... or jump off a roof, there must be a place where they can flee to in order to exercise their right to decide on their own life or death with dignity.
+
+People coming to Switzerland for assisted suicide hurt nobody. It's actually a slight boost to the economy.
+
+But I really wonder why it's still prohibited in so many countries. I'm blaming religion.","['countries', 'life', 'way', 'force', 'people']",2015-04-07 07:10:36,"{'neg': 0.135, 'neu': 0.822, 'pos': 0.043, 'compound': -0.8402}",negative
+"I blame religion too. Thanks for your insight, I appreciate it.","['blame', 'religion', 'Thanks', 'insight', 'appreciate']",2015-04-08 00:35:09,"{'neg': 0.171, 'neu': 0.429, 'pos': 0.4, 'compound': 0.4939}",positive
+"I think you have the right to decide over your life and when to end it, thus I'm perfectly fine with assisted suicide.","['think', 'right', 'decide', 'life', 'end']",2015-04-07 01:02:14,"{'neg': 0.153, 'neu': 0.644, 'pos': 0.203, 'compound': 0.128}",positive
+"Does the swiss practise even fit the definition of eutanasia? I think only assisted suicide is allowed, also called ""passive Sterbehilfe"" or passive help with dying roughly translated. Whereas active killing is still prohibited.
+
+I'm of the opinion even active components of help should be allowed if placed under the same scrutiny.","['even', 'allowed', 'passive', 'help', 'active']",2015-04-07 06:44:39,"{'neg': 0.131, 'neu': 0.619, 'pos': 0.249, 'compound': 0.6124}",positive
+I'm perfectly fine with it and I think other countries should embrace it.,"['Im', 'perfectly', 'fine', 'think', 'countries']",2015-04-07 01:53:23,"{'neg': 0.0, 'neu': 0.52, 'pos': 0.48, 'compound': 0.8074}",positive
+I'm fine with it and am glad that the option exists should I ever need it. I don't see how denying this mercy to foreigners could be justified.,"['Im', 'fine', 'glad', 'option', 'exists']",2015-04-07 07:15:59,"{'neg': 0.0, 'neu': 0.629, 'pos': 0.371, 'compound': 0.8863}",positive
+"There were two Volksinitiativen in Zurich, trying to restrict and/or ban euthanasia.
+
+The initiative to ban death tourism had  21.59% yes votes.
+The initiative to ban Assisted suicide had only 15.52% yes votes.
+
+[Source, search for the ID's 338 and 339] (http://www.statistik.zh.ch/internet/justiz_inneres/statistik/de/wahlen_abstimmungen/abstimmungsarchiv.html)","['ban', 'initiative', 'yes', 'votes', 'two']",2015-04-07 10:11:05,"{'neg': 0.356, 'neu': 0.556, 'pos': 0.088, 'compound': -0.9545}",negative
+Swiss people sure don't like the government to tell them how they should live or die. I'm happy there's at least one place where people have this stance *and* all the power they need to enforce it.,"['people', 'Swiss', 'sure', 'dont', 'like']",2015-04-08 00:55:53,"{'neg': 0.134, 'neu': 0.733, 'pos': 0.133, 'compound': -0.0026}",neutral
+I'm glad the option exists for people that want to use it. The 'suicide tourism' doesn't bother me the least bit. It even has some bittersweet aspect that somebody who's suffering can come to rest here. I'm sure however they would rather die in a familiar environment.,"['Im', 'glad', 'option', 'exists', 'people']",2015-04-07 08:22:45,"{'neg': 0.215, 'neu': 0.639, 'pos': 0.145, 'compound': -0.7322}",negative
+"Euthanasia is illegal in Switzerland. You should write that in your paper :)
+
+I have no problems with assisted suicide though. Afaik, it's a quite peaceful way to go and if it keeps people from suffering a painful death due to medication overdose, I'm fine with it.
+
+Of course it should only be available for terminally ill people and afaik at least some organizations in Switzerland providing this service enforce this prerequisite.","['Switzerland', 'people', 'Euthanasia', 'illegal', 'write']",2015-04-07 11:17:48,"{'neg': 0.279, 'neu': 0.63, 'pos': 0.09, 'compound': -0.9546}",negative
+"I don't think that an old or ill human being should be forced to survive, if surviving means ""living"" with a lot of suffering or without any will to live on. The mere fact that people travel into Switzerland to do it shows that there is a demand for euthanasia, not only in Switzerland.","['Switzerland', 'dont', 'think', 'old', 'ill']",2015-04-07 03:32:25,"{'neg': 0.177, 'neu': 0.785, 'pos': 0.038, 'compound': -0.802}",negative
+"I'm certainly glad this option is available to those whose life has become unbearable to live. Whether your sliding into dementia or suffering constant pain, I think the only humane thing is to help people put an end to the suffering, instead of forcing them to endure many joyless months or even years.
+
+So in short, I think the people that forbid this practise outside Switzerland are the monstrous ones.","['suffering', 'think', 'people', 'Im', 'certainly']",2015-04-07 10:31:13,"{'neg': 0.183, 'neu': 0.719, 'pos': 0.097, 'compound': -0.802}",negative
+"Absolutely great. I really wish we could make it even more deregulated. I love the Suicide Industry. To me this is one of the symbols of a free nation, the ability to choose life or not.","['Absolutely', 'great', 'really', 'wish', 'could']",2015-04-07 13:48:24,"{'neg': 0.091, 'neu': 0.548, 'pos': 0.36, 'compound': 0.9221}",positive
+"In fact I find it a strange thing that Switzerland seems to be the only well known place allowing assisted suicide. If prolonging people's lives in unnatural ways (i.e. heart/lung machines) without their consent is legal, why should assisting them in ending it not be when it is their will? I don't even understand how it can be made illegal to provide the means for someone to end their lives, I mean technically, this would have to be an explicitly stated law, wouldn't it? Otherwise any instrument that someone uses for suicide (say, a rope) that you provided, even unknowingly, could get you into trouble. Why would lawmakers go through the troubles of making such laws? Living in a free society means that you should be able to do anything you want, as long as it's not at the expense of others.","['suicide', 'lives', 'even', 'means', 'someone']",2015-04-07 14:18:36,"{'neg': 0.143, 'neu': 0.804, 'pos': 0.053, 'compound': -0.9442}",negative
+"The other well known countries for assisted suicide are Belgium, the Netherlands and Luxembourg. The seem to be at least on par with the liberties in Switzerland most of the time actually","['well', 'known', 'countries', 'assisted', 'suicide']",2015-04-07 22:02:36,"{'neg': 0.116, 'neu': 0.746, 'pos': 0.139, 'compound': -0.0258}",neutral
+I completely agree with you and I'm so happy that many people share my views and are open and respectful of the wishes of others.,"['completely', 'agree', 'Im', 'happy', 'many']",2015-04-08 00:31:59,"{'neg': 0.0, 'neu': 0.57, 'pos': 0.43, 'compound': 0.9236}",positive
+"The difference between euthanasia and what is actually allowed here has been already explained...  
+I am very happy that the possibility to have assisted suicide here. Even if it's not an option for some people, it's still good to have the choice. Also, I think that it's a pity that people can't have access to assisted suicide in their homecountries, so I think it's a good option for them to come here. Doesn't bother me at all.","['assisted', 'suicide', 'option', 'people', 'good']",2015-04-07 16:43:38,"{'neg': 0.127, 'neu': 0.738, 'pos': 0.134, 'compound': -0.0954}",negative
+"Pft, as long as the capacity to burn them or bury them afterwards is not diminished, why not. They travel hundreds of kilometers, talk with assistants and other counsels if needed and they do it themselves. Most have some horrible illness and they want to live life as they are used to it, not like an miserable condition imposes it on them.","['Pft', 'long', 'capacity', 'burn', 'bury']",2015-04-07 19:52:54,"{'neg': 0.143, 'neu': 0.801, 'pos': 0.056, 'compound': -0.7224}",negative
+"i think if youre going to an euthanasia to end your life you've thought about it for enough time. you could just kill yourself by jumping in front of a train or shoot yourself, but thats not a good way to end your life. also youre not going to an euthanasia in an affect. so i dont see anything negative about it. it doesnt matter if these people are swiss or from other countries, if other governments dont allow these institutions for some (stupid) reason its perfectly okay to go into another country where you can legally do what you really want.
+sry for bad englando, s bett rüeft.","['youre', 'going', 'euthanasia', 'end', 'life']",2015-04-07 01:12:23,"{'neg': 0.125, 'neu': 0.749, 'pos': 0.126, 'compound': 0.2772}",positive
+that's what thailand is for. buy boys.,"['thats', 'thailand', 'buy', 'boys']",2015-06-25 13:42:12,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
+"I honestly don't care – everyone is entitled to their own decision what they want to do with their life. If someone wants to end their life and doesn't get the framework or permission in his or her home country, I can only understand travelling to another country where this is possible.","['life', 'country', 'honestly', 'dont', 'care']",2015-04-07 10:59:46,"{'neg': 0.049, 'neu': 0.833, 'pos': 0.118, 'compound': 0.416}",positive
+I don't care. If people want to die by assisted suicide then they should be allowed to do that as long as it is their decision by free will.,"['dont', 'care', 'people', 'want', 'die']",2015-04-13 08:23:14,"{'neg': 0.285, 'neu': 0.595, 'pos': 0.119, 'compound': -0.814}",negative
+"I'm totally positive - what point for me in the ""vegetable-like"" existence either on machine support, or in drug induced half-sleep(in case of terminal cancer)?","['Im', 'totally', 'positive', 'point', 'vegetablelike']",2015-04-08 07:22:12,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.7645}",positive
+"Questions about the Switzerland's palliative care, hospice, and assisted-suicide","['Questions', 'Switzerlands', 'palliative', 'care', 'hospice']",2018-06-08 05:09:00,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.4939}",positive
+"Hello, I am from r/Taiwan and we recently did a cultural exchange ([Polska side](https://www.reddit.com/r/Polska/comments/8oj7qk/linho_cultural_exchange_with_rtaiwan/), [Taiwan side](https://www.reddit.com/r/taiwan/comments/8oj35m/cze%C5%9B%C4%87_polska_today_were_hosting_rpolska_for_a/)) with /r/Polska. Which made me curious about other parts of Europe.   
+
+My main question is, what do the Swiss think of euthanasia (assisted-suicide)? This is mainly due to a recent event of a Taiwanese, who is a semi-public figure, deciding to travel to Switzerland for assisted suicide. He was diagnosed with [terminal pancreatic cancer](https://www.taiwannews.com.tw/en/news/3451430). And in Taiwan (as well as most of the world), assisted-suicide is still illegal.   
+
+This made me wonder, what do people in Switzerland think of assisted suicide? A quick [Wikipedia search](https://en.wikipedia.org/wiki/Euthanasia_in_Switzerland) tells me that assisted-suicide is not as common as the news makes it seems, and its mostly foreigners who use assisted suicide. Does Switzerland have palliative care (hospice) centers for those with terminal illnesses? How are the services? And lastly, since I am in the healthcare/medical care industry, how is the healthcare in Switzerland?   
+  
+I'll be looking forward to read any response.   
+Thanks. 
+
+Edit: The term ""assisted-suicide"" might not sound familiar with Swiss, and I realized this may be due to how countries that are against this practice would use ""euthanasia"" with the negative word ""suicide"".   
+
+Edit2: Oops, looks like I might be too careless with my use of interchanging the word [euthanasia and assisted-suicide.](https://www.medicalnewstoday.com/articles/182951.php)   
+
+Edit3: Thanks for all the responses you guys. I definitely learned a lot today!","['Questions', 'Switzerlands', 'palliative', 'care', 'hospice']",2018-06-08 05:09:00,"{'neg': 0.109, 'neu': 0.805, 'pos': 0.086, 'compound': -0.8736}",negative
+"palliative care is surely more popular and actively promoted and talked about. 
+
+Most people accept that assisted suicide is a legitimate option tho, but they may not necessarily agree with the choice.","['palliative', 'care', 'surely', 'popular', 'actively']",2018-06-08 15:51:27,"{'neg': 0.135, 'neu': 0.573, 'pos': 0.292, 'compound': 0.511}",positive
+"It works like it should: https://www.exit.ch/en/en/
+
+""Association for humane dying"" sounds way better than ""Assisted suicide""","['works', 'like', 'httpswwwexitchenen', 'Association', 'humane']",2018-06-08 07:01:19,"{'neg': 0.197, 'neu': 0.568, 'pos': 0.236, 'compound': -0.0258}",neutral
+"Ah, yes, thanks for pointing that out. There definitely appears to be some bias in the language usage. In places where it is illegal, they use the term ""suicide"" which has a negative connotation. Euthanasia might be a better word choice. In Taiwan, we call it 安樂死 which can be literally translated as ""comfortably dying"".","['Ah', 'yes', 'thanks', 'pointing', 'definitely']",2018-06-08 07:16:30,"{'neg': 0.129, 'neu': 0.665, 'pos': 0.207, 'compound': 0.6486}",positive
+"My mother knows an old lady which just told goodbye she will use that on monday. Quiet a shok but i fully understand it.
+
+I fully understand that people think it is wrong.. Depending on culture or religion. However i have seen 3 people die of cancer and 2 with ALS.
+Honestly, how many people had to be foubd dead somewhere.. Shot thenself or hanging himself and a close person had to find them. Just because they saw no different way out. If i had ALS and i would know i had to suffer more and more and in the end i would not even be able to do jack shit. I would end myself. And this is.. It's a thing. It's supported. You get a ""wish"".. Can listen to some music and just go to sleep.
+The old lady my mom knows is 100+. Nearly blind. Has no real family. No support or anything. Shits herself all the time and can barely walk. But could probably live a lot longerm she is sick of it.. She has her own choice to make.
+
+Also.. There is actually a case going on. Someone sues an owner of such company ""because he dies not do it FOR the people but because of greed"". Lol.
+
+A friend of me argued ""well it could be cheaper"".
+No.. Imagine it would be cheap.. Probably way more people with less reasons would use that. Some country's have a pretty high suicide rate.. That thing would explode.
+
+
+Sorry for my gibberish.","['would', 'people', 'knows', 'old', 'lady']",2018-06-08 08:00:10,"{'neg': 0.196, 'neu': 0.719, 'pos': 0.085, 'compound': -0.9892}",negative
+"Well, you can get effective poison for free on the wayside. That would mean half the country is committing suicide, by that logic.","['Well', 'get', 'effective', 'poison', 'free']",2018-06-08 08:27:00,"{'neg': 0.23, 'neu': 0.489, 'pos': 0.282, 'compound': -0.0516}",negative
+"It's actually a great comfort of mine, knowing that I can choose to leave on my own terms when the time comes.","['actually', 'great', 'comfort', 'mine', 'knowing']",2018-06-08 06:39:00,"{'neg': 0.048, 'neu': 0.685, 'pos': 0.266, 'compound': 0.7506}",positive
+"I work in palliative care at a hospital right now, there are hospices as well, but not that many and not in every canton.
+  
+There's a growing need for it, hence the services are growing as well. 
+
+What's maybe also interesting to know is that every hospital I've ever worked with refuses to provide assisted suicide. I don't exactly understand why, but that's how it is.","['hospital', 'well', 'every', 'growing', 'work']",2018-06-08 06:42:33,"{'neg': 0.083, 'neu': 0.731, 'pos': 0.186, 'compound': 0.5719}",positive
+"By concidence there was an article about that today in the Tagi, by the president of the Zurich doctor's association:
+
+https://www.tagesanzeiger.ch/news/standard/sterbehilfe-gehoert-nicht-zu-den-aufgaben-des-arztes/story/15418373
+
+TLDR: they just don't want to get involved in something that could be messy
+
+I also have to wonder if this guy's personal opinions (he is a CVP politician and presumably slightly religious) may be coming into play a little, but I think this is probably a reasonably common opinion amongst doctors.","['doctors', 'concidence', 'article', 'today', 'Tagi']",2018-06-08 08:16:04,"{'neg': 0.041, 'neu': 0.934, 'pos': 0.024, 'compound': -0.0415}",neutral
+"Nice! Can I ask what specialty that would be under? In Taiwan, the palliative care is a sub-specialty under the Family Medicine specialty. 
+
+For Taiwan hospices, they are largely expensive and require patient's to pay some out of pocket costs. If you don't want to pay, the selection and services will be very, very lacking. But that is because we have mandatory social healthcare insurance. It used to be private, but the government combined them all around 20 yrs ago. The hospitals have palliative care, but it is short-term based. IIRC, after 2 wks (I think it used to be 30 days) and the patient is still alive, they will be transferred to outside long-term hospice care. 
+
+As for hospitals refusing it. Well, yes. That's a surprise. Haha, sometimes the news skews the information and makes it seem like it's super popular and very easily accessible. Apparently, you would have to apply for it and go through a few hoops.","['care', 'specialty', 'would', 'Taiwan', 'palliative']",2018-06-08 06:56:42,"{'neg': 0.037, 'neu': 0.719, 'pos': 0.244, 'compound': 0.9914}",positive
+"Quick answer since I am on mobile:
+
+Assisted suicide has a very solid support from the Swiss population. Attempts to abolish or further regulate the practise have been defeated at votes with a large majority.
+
+On the other hand, the organisations that facilitate it are normally closely watched by prosecutors, and face opposition from religious minorities as well as a lot of issues with finding places to work from - everyone supports this stuff in theory but many people are not happy when such organisations operate nearby.
+
+Switzerland does have palliative care - that is the more common route to go if you have a terminal disease. I can't speak to how good it is, but I don't think it's bad. 
+
+Healthcare as a whole is  expensive - we have mandatory private health insurance with subventions for lower incomes - but way better then many of the neighbouring countries.","['organisations', 'many', 'Quick', 'answer', 'since']",2018-06-08 06:18:32,"{'neg': 0.072, 'neu': 0.766, 'pos': 0.162, 'compound': 0.9093}",positive
+"Thanks for the detailed response.  
+
+To have such a solid support is definitely interesting. Taiwan is on the other hand, overwhelmingly against it, so much so, the legislators don't even bother to draft a bill. And since you brought up the part about religions, this definitely adds an unique layer to this topic.","['definitely', 'Thanks', 'detailed', 'response', 'solid']",2018-06-08 06:44:20,"{'neg': 0.023, 'neu': 0.656, 'pos': 0.321, 'compound': 0.9519}",positive
+"I think that assisted suicide should be an option, given the right conditions. If someone has a deadly illness that is steadily getting worse, I completely understand the desire to end the life in a dignified and self-determined way.","['think', 'assisted', 'suicide', 'option', 'given']",2018-06-09 09:04:28,"{'neg': 0.222, 'neu': 0.646, 'pos': 0.133, 'compound': -0.6293}",negative
+"I can't speak authoritatively on the matter, but I can tell you what I know from an experience from a Swiss friend of the Swiss family:
+
+She had some kind of nasty cancer that metastasized, and was dying painfully. She was in hospice, and by the time they attempted the assisted suicide she was too sick to do it. She mercifully died the next day.
+
+I cannot speak to the quality of the services here.
+
+From my perspective, most Swiss folks I know personally (all 4 of them, which is statistically irrelevant) are surprisingly comfortable with assisted suicide. Personally, I am _not_ comfortable with it, but I'm not Swiss, I'm imported.","['Swiss', 'speak', 'know', 'assisted', 'suicide']",2018-06-08 06:07:26,"{'neg': 0.26, 'neu': 0.624, 'pos': 0.117, 'compound': -0.9795}",negative
+Just wondering why arent you comfortable with it? Religious?,"['wondering', 'arent', 'comfortable', 'Religious']",2018-06-08 07:50:57,"{'neg': 0.277, 'neu': 0.723, 'pos': 0.0, 'compound': -0.47}",negative
+"Thanks! That's extremely interesting if a patient becomes too sick for it. But it makes sense if the philosophy of assisted suicide is to die with dignity and on their own terms. 
+
+It's also quite surprising to know that swiss folks are comfortable with it, but yet, most won't actively choose this method. So it's definitely not for everyone, but the choice to do it is there and acceptable.","['Thanks', 'Thats', 'extremely', 'interesting', 'patient']",2018-06-08 06:27:30,"{'neg': 0.173, 'neu': 0.595, 'pos': 0.232, 'compound': 0.5625}",positive
+"I can only speak of people I know, but there is no stigma/fear/negative view of assisted suicide. In fact, the people I know only have a positive view of it. Personally I am pretty grateful such an option exists here, and I'm really glad I have that option.
+
+As you say, it is not so common in switzerland, and for a good reason: is just the last resort.
+
+I am really not and expert on healthcare, but in most places is good, yet expensive if you do not have an insurance, which is anyway mandatory. You have very good ans specialized places for particular illnesses.
+
+For palliative care: there are centers and I had a relative go to one. But I do not know much more than this.","['know', 'good', 'people', 'view', 'option']",2018-06-08 06:23:17,"{'neg': 0.087, 'neu': 0.685, 'pos': 0.228, 'compound': 0.9705}",positive
+"I am Swiss and I fully support the idea of assisted suicide. If I think of my dog or cat, when they get old and sick, it is considered ""a labor of love"" to humanely euthanise them so they don't have to suffer any longer than necessary.
+
+But as a humen I usually don't have this fortune, no I have to painfully suffer until the last moment of my miserable life and then they still try to keep you alive even longer.
+
+I would like to have the same loving, caring treatment as my dog, saying good bye to everyone and go in peace, not pain.
+
+It's maybe the one thing, where animal rights are better than human rights...","['dog', 'dont', 'suffer', 'longer', 'rights']",2018-06-08 08:43:03,"{'neg': 0.108, 'neu': 0.616, 'pos': 0.276, 'compound': 0.9798}",positive
+"Assisted suicide and euthanasia are two different things. Euthanasia isn't legal in Switzerland.
+
+I don't know anyone that doesn't support assisted suicide. Swiss people are in favor of it, which I find surprising, because most of us are so conservative. It's weird to have assisted suicide and no gay marriage for example. 
+
+I personally am grateful to have this option.","['suicide', 'assisted', 'Assisted', 'euthanasia', 'two']",2018-06-08 09:16:07,"{'neg': 0.28, 'neu': 0.618, 'pos': 0.103, 'compound': -0.9259}",negative
+"Ah yes, sorry for my mistake.   
+
+[I looked it up](https://www.medicalnewstoday.com/articles/182951.php) and yes, there are some slight differences. Now I remember, one is doctor doing the action and the other is the patient/client doing the action.","['yes', 'action', 'Ah', 'sorry', 'mistake']",2018-06-08 09:20:17,"{'neg': 0.095, 'neu': 0.767, 'pos': 0.138, 'compound': 0.4019}",positive
+Cause of death statistics 2022 - Federal Statistical Office,"['Cause', 'death', 'statistics', '2022', 'Federal']",2023-12-11 10:44:53,"{'neg': 0.358, 'neu': 0.642, 'pos': 0.0, 'compound': -0.5994}",negative
+"In 2022, 74 425 people died in the Swiss resident population. 
+
+Cardiovascular diseases accounted for the largest proportion of deaths at 27.5%, ahead of cancer, which was responsible for 23.1% of deaths. 
+
+As was the case prior to the pandemic period, dementia held the third place, responsible for 8.8% of deaths. 
+
+In 2022, Covid-19 caused 5.5% of deaths, making it the fifth leading cause of death, behind respiratory diseases (6.1%). 
+
+These are some of the results from the Federal Statistical Office's 2022 Cause of death statistics.
+
+https://www.bfs.admin.ch/news/en/2023-0109","['Cause', 'death', 'statistics', '2022', 'Federal']",2023-12-11 10:44:53,"{'neg': 0.156, 'neu': 0.799, 'pos': 0.045, 'compound': -0.9217}",negative
+"If I had the full data (cannot find it from mobile but I am sure it’s there) I would curious to plot the conditional probabilities like I did here 
+
+https://i.imgur.com/MKlQTYC.png
+
+I am always amazed (maybe not the right word) by the fact that as you get older there are only so many ways to die. Or in other words, if you reduce one reason of death you increase the rest.","['full', 'data', 'find', 'mobile', 'sure']",2023-12-11 12:44:01,"{'neg': 0.126, 'neu': 0.682, 'pos': 0.193, 'compound': 0.5719}",positive
+Like https://wisqars.cdc.gov/lcd/ (it might take a while to load),"['Like', 'httpswisqarscdcgovlcd', 'might', 'take', 'load']",2023-12-11 16:07:14,"{'neg': 0.0, 'neu': 0.737, 'pos': 0.263, 'compound': 0.3612}",positive
+"That's more or less [this graph](https://www.bfs.admin.ch/bfs/en/home/news/whats-new.assetdetail.27925074.html) - cause of death by age category. For example if you make it to 85+, you're much less likely to die of cancer than people in the 65-84 category.","['less', 'category', 'Thats', 'graphhttpswwwbfsadminchbfsenhomenewswhatsnewassetdetail27925074html', 'cause']",2023-12-12 08:59:34,"{'neg': 0.278, 'neu': 0.722, 'pos': 0.0, 'compound': -0.9175}",negative
+Interesting !,['Interesting'],2023-12-11 12:00:58,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4574}",positive
+"If you had to chose , cardiovascular or cancer?","['chose', 'cardiovascular', 'cancer']",2023-12-11 21:19:19,"{'neg': 0.386, 'neu': 0.614, 'pos': 0.0, 'compound': -0.6597}",negative
+I have already signed up for euthanasia.,"['already', 'signed', 'euthanasia']",2023-12-12 05:21:09,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
+And the rest?,['rest'],2023-12-11 11:04:48,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
+Here you go: https://www.bfs.admin.ch/bfs/en/home/statistics/health/state-health/mortality-causes-death/specific.html,"['go', 'httpswwwbfsadminchbfsenhomestatisticshealthstatehealthmortalitycausesdeathspecifichtml']",2023-12-11 11:29:54,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
+They list respiratory disease separate from covid ?,"['list', 'respiratory', 'disease', 'separate', 'covid']",2023-12-11 11:21:42,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
+Why not?,[],2023-12-11 12:46:16,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
+"I mean, COVID-19 causing 5.5% of deaths is massive, compared to multiple diseases that each account for 0.x% of the deaths.
+
+But if you want to list both together, that would make 11.6% which would make them second place.","['deaths', 'would', 'make', 'mean', 'COVID19']",2023-12-11 13:33:46,"{'neg': 0.0, 'neu': 0.962, 'pos': 0.038, 'compound': 0.1154}",positive
+"I’m pretty sure numbers like these aren’t exclusive to Switzerland either. Sadly, there doesn’t seem to be any urgency into investigating the reason for the increase.","['’', 'pretty', 'sure', 'numbers', 'like']",2023-12-12 11:52:18,"{'neg': 0.081, 'neu': 0.578, 'pos': 0.341, 'compound': 0.7906}",positive
+Increase of what?,['Increase'],2023-12-15 11:34:55,"{'neg': 0.0, 'neu': 0.465, 'pos': 0.535, 'compound': 0.3182}",positive
+The much attended sequel?,"['much', 'attended', 'sequel']",2022-06-21 11:51:34,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
+"I'm locking this as all content regarding the war in Ukraine should be in the megathread, and crossposts from r/worldnews almost always lead to brigading. Please use the megathread for discussing this - someone already posted the article there.","['megathread', 'Im', 'locking', 'content', 'regarding']",2022-06-21 14:18:32,"{'neg': 0.092, 'neu': 0.853, 'pos': 0.055, 'compound': -0.3818}",negative
+"I liked this gem:
+
+""Enablers are the absolute worst kind of scum.  Putin is a monster, but the Swiss are worse.""","['liked', 'gem', 'Enablers', 'absolute', 'worst']",2022-06-21 13:07:06,"{'neg': 0.119, 'neu': 0.793, 'pos': 0.089, 'compound': -0.1655}",negative
+"Yeah, that one almost broke my brain.","['Yeah', 'one', 'almost', 'broke', 'brain']",2022-06-21 13:10:34,"{'neg': 0.258, 'neu': 0.515, 'pos': 0.227, 'compound': -0.079}",negative
+And also can we thank the guy who had the balls to kill Hitler,"['also', 'thank', 'guy', 'balls', 'kill']",2022-06-21 13:56:12,"{'neg': 0.245, 'neu': 0.625, 'pos': 0.13, 'compound': -0.4939}",negative
+Fuuuuuuck world news deathsquads are coming to punish our Nazi gold loving asses,"['Fuuuuuuck', 'world', 'news', 'deathsquads', 'coming']",2022-06-21 12:27:54,"{'neg': 0.186, 'neu': 0.601, 'pos': 0.213, 'compound': 0.128}",positive
+"Apparently we are worse than Putin, because some comapnies located in Switzerland refine russian Gold, which doesn't seem to be on the sanction list, yet. 
+
+The large generalisation is quite amusing though. I kinda always knew that my neighbor is a gold loving whore /s.","['Apparently', 'worse', 'Putin', 'comapnies', 'located']",2022-06-21 12:55:22,"{'neg': 0.139, 'neu': 0.733, 'pos': 0.128, 'compound': -0.1548}",negative
+Little do they know that their beloved american freedom^^tm corporations are still negotiating with Russia,"['Little', 'know', 'beloved', 'american', 'freedomtm']",2022-06-21 13:13:50,"{'neg': 0.0, 'neu': 0.809, 'pos': 0.191, 'compound': 0.5106}",positive
+The discussion of this on r/worldnews is a goldmine.,"['discussion', 'rworldnews', 'goldmine']",2022-06-21 12:24:06,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
+"I'd have gone for heaping pile of dung, but I guess one mans dung is another mans gold.","['dung', 'mans', 'Id', 'gone', 'heaping']",2022-06-21 12:29:28,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
+"There honestly no point going in there. To be fair it’s the same for any article about the US, UK, France, Germany … China, Middle East. I’d take nazi gold references over colonialism and genocide every day","['’', 'honestly', 'point', 'going', 'fair']",2022-06-21 12:40:02,"{'neg': 0.054, 'neu': 0.815, 'pos': 0.131, 'compound': 0.4767}",positive
+"Could anyone explain the reason for the hate-boner r/worldnews seems to have developed for Switzerland in particular? We're apparently worse than Putin, should be sanctioned to death and are all scum","['Could', 'anyone', 'explain', 'reason', 'hateboner']",2022-06-21 13:56:49,"{'neg': 0.194, 'neu': 0.806, 'pos': 0.0, 'compound': -0.7906}",negative
+"They need to direct their hate somewhere, and the chance they‘ll hit a Swiss and they‘ll bark is huge. Once answered, be prepared to get downvoted and commented to hell, because ALLLLLL people living in Switzerland are greedy scummy arseholes, especially YOU with THAT in your reddit history!","['‘', 'need', 'direct', 'hate', 'somewhere']",2022-06-21 14:17:12,"{'neg': 0.187, 'neu': 0.706, 'pos': 0.107, 'compound': -0.7712}",negative
+Screw reddit in times of war. Only one sided emotional reactions. Mentioning Nazi gold every comment...,"['Screw', 'reddit', 'times', 'war', 'one']",2022-06-21 13:22:14,"{'neg': 0.266, 'neu': 0.653, 'pos': 0.08, 'compound': -0.5719}",negative
+"> Screw reddit - Only one sided emotional reactions.  
+
+ftfw","['Screw', 'reddit', 'one', 'sided', 'emotional']",2022-06-21 13:53:36,"{'neg': 0.156, 'neu': 0.667, 'pos': 0.178, 'compound': 0.0516}",positive
+Time to put the subreddit on a short term lockdown,"['Time', 'put', 'subreddit', 'short', 'term']",2022-06-21 12:50:05,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
+"Aah, the usual Switzerland sucks comments. It’s so sad to see such uneducated opinions getting this many upvotes… I mean don’t get me wrong. I don’t think Switzerland is the best country on the planet and also think this decision was at least questionable. But insulting 8M+ people for a decision made by only a couple of these 8M+ is just stupid.","['’', 'Switzerland', 'think', 'decision', '8M']",2022-06-21 13:40:33,"{'neg': 0.239, 'neu': 0.724, 'pos': 0.037, 'compound': -0.9216}",negative
+I sleep...,['sleep'],2022-06-21 12:30:59,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",neutral
+"OMG, I’ve learned from a bunch of guys from this sub that Switzerland always took the neutral side in everything despite it always looks like they take the most self beneficial side. Could you guys help me to understand how buying gold from a dictatorship that is RIGHT NOW invading another country is neutral?","['guys', 'always', 'neutral', 'side', 'OMG']",2022-06-21 13:17:54,"{'neg': 0.0, 'neu': 0.854, 'pos': 0.146, 'compound': 0.8115}",positive
+"The government is NOT buying gold from Russia, the gold was imported by some private refinierie.
+Switzerland is following the sanctions proposed by the EU, where the trading with gold is not prohibited.
+
+I'm not saying I support what is happening, but fact is it's a private company doing business which is perfectly legal (if morally wrong). But this company may as well be located in Germany and do the exact same thing, it has nothing to do with Switzerland as a country","['gold', 'private', 'Switzerland', 'company', 'government']",2022-06-21 13:50:09,"{'neg': 0.019, 'neu': 0.865, 'pos': 0.116, 'compound': 0.8615}",positive
+"Your question makes no sense. Neutrality means taking no side.
+
+Besides, Switzerland has in fact taken a side this time, and it's not Russia's.
+
+I'm not supporting the move, it's just that apparently the population get shit on when Swiss corporations do stupid shit. Remember that those corporations are exactly the same that don't even stop to think about it when they can screw us up. Stop shitting us when we're getting fuck from both sides","['side', 'shit', 'corporations', 'us', 'question']",2022-06-21 13:37:30,"{'neg': 0.293, 'neu': 0.687, 'pos': 0.02, 'compound': -0.9733}",negative
+It's perfectly neutral if you profit from all sides all at once ;),"['perfectly', 'neutral', 'profit', 'sides']",2022-06-21 13:30:44,"{'neg': 0.0, 'neu': 0.526, 'pos': 0.474, 'compound': 0.8402}",positive
+"When there is a dictator or some rich villain in need, Switzerland is there for him.","['dictator', 'rich', 'villain', 'need', 'Switzerland']",2022-06-21 13:55:18,"{'neg': 0.178, 'neu': 0.644, 'pos': 0.178, 'compound': 0.0}",neutral
+What sanctions could end this support of Russias war?,"['sanctions', 'could', 'end', 'support', 'Russias']",2022-06-21 12:10:33,"{'neg': 0.278, 'neu': 0.499, 'pos': 0.223, 'compound': -0.1962}",negative

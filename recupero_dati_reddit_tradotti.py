@@ -4,7 +4,7 @@ from datetime import datetime
 from deep_translator import GoogleTranslator
 
 def traduci_testo(testo):
-    traduttore = GoogleTranslator(source='es', target='en')
+    traduttore = GoogleTranslator(source='en', target='en')
     # Prendi solo i primi 5000 caratteri
     testo_ridotto = testo[:4999]
     return traduttore.translate(testo_ridotto)
@@ -23,9 +23,12 @@ reddit = praw.Reddit(client_id=client_id,
 #SpainPolitics
 #italy
 # Parametri di ricerca
-subreddit_name = 'SpainPolitics'
-search_query = 'eutanasia'
+subreddit_name = 'unitedkingdom'
+search_query = 'Euthanasia'
 num_posts = 50  # Numero di post da recuperare
+
+
+
 
 # Esegui la ricerca nel subreddit
 subreddit = reddit.subreddit(subreddit_name)
@@ -72,5 +75,5 @@ for post in posts:
     data.append(post_data)
 
 # Salvataggio della lista di dizionari in un file JSON
-with open('dati/dati_spagna.json', 'w', encoding='utf-8') as json_file:
+with open('dati/dati_sub_reddit_unitedkingdom.json', 'w', encoding='utf-8') as json_file:
     json.dump(data, json_file, ensure_ascii=False, indent=4)

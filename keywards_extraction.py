@@ -3,6 +3,11 @@ import pandas as pd
 import nltk
 nltk.download('vader_lexicon')
 
+
+
+# Carica i dati dal file CSV
+df = pd.read_csv('dati/dataseset_italia_con_sentiment.csv', header=None)
+
 def remove_punctuation(text):
     punctuation = "!\"#$%&'()*+,-./:;<=>?@[\]^_`{|}~"  # Lista dei caratteri di punteggiatura da rimuovere
     text_without_punctuation = "".join(i for i in text if i not in punctuation)
@@ -18,32 +23,24 @@ def remove_stopwords(text):
     filtered_words = [word for word in words if word.lower() not in stopwords]
     return filtered_words
 
+
+#Estrazione delle parole chiave
 def keywords_extraction(words):
     word_freq = nltk.FreqDist(words)
-
     # Estrazione delle parole chiave più comuni
-    keywords = word_freq.most_common(10)
-
+    keywords = word_freq.most_common(400)
     return [keyword[0] for keyword in keywords]
-
-
-# Carica i dati dal file CSV
-df = pd.read_csv('dati/dataseset_italia_con_sentiment.csv', header=None)
-
-#keywords extraction
 
 
 all_keywords = []
 
-
-for sentence in df[0]:  # Assumendo che le frasi siano nella prima colonna
-    if not isinstance(sentence, str):
-        continue
+#Estrazione delle parole chiave da ogni frase
+for sentence in df[0].astype(str):
     cleaned_text = remove_stopwords(sentence)
     keywords = keywords_extraction(cleaned_text)
     all_keywords.extend(keywords)
 
-# Se necessario, ottenere parole chiave uniche e più frequenti
+#Dopo aver estratto tutte le parole chiave dalle singole frasi, rimuove quelle duplicate
 unique_keywords = keywords_extraction(all_keywords)
 
 print(unique_keywords)

@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Leggi il file CSV
-df = pd.read_csv('dataseset_italia_con_sentiment.csv', header=None, skiprows=1)
+df = pd.read_csv('dati/dataseset_unitedkingdom_con_sentiment.csv', header=None, skiprows=1)
 
 # Converti la colonna 'Data' in tipo datetime
 df['Data'] = pd.to_datetime(df[2])
@@ -21,7 +21,7 @@ plt.figure(figsize=(12, 6))
 media_mensile.plot(kind='line')
 plt.axhline(y=0.05, color='red', linestyle='--', label='0.05')
 plt.axhline(y=-0.05, color='red', linestyle='--', label='-0.05')
-plt.title('Andamento del sentiment medio negli anni')
+plt.title("Andamento del sentiment negli anni")
 plt.xlabel('Anno')
 plt.ylabel('Sentiment Medio')
 plt.grid(True)
